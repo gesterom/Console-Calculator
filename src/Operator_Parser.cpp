@@ -37,7 +37,7 @@ Oper* Operator_Parser::operat(char input){
             temp->str = new Div();
             return temp;
          case '^':
-            temp->priority=add_priority+2;
+            temp->priority=add_priority+3;
             temp->str = new Pow();
             return temp;
         case '(':

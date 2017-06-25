@@ -120,3 +120,107 @@
 1498381193 source:/home/android-17/dysk/gesterom/projekty/Calculator/src/Sub.cpp
 	"Sub.h"
 
+1498384959 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<list>
+	<Print.h>
+	<Add.h>
+	<Mul.h>
+	<Operator.h>
+	<Calculate.h>
+	<Operator_Parser.h>
+
+1498253188 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Print.h
+	<I_Visitor.h>
+	<I_Node.h>
+	<Argumnet.h>
+	<Operator.h>
+
+1498253164 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/I_Visitor.h
+
+1498251861 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/I_Node.h
+
+1498253004 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Argumnet.h
+	<I_Node.h>
+	<I_Visitor.h>
+
+1498256719 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Operator.h
+	<I_Node.h>
+	<I_Stratagy.h>
+	<I_Visitor.h>
+
+1498252702 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/I_Stratagy.h
+
+1498252715 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Add.h
+	<I_Stratagy.h>
+
+1498253708 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Mul.h
+	<I_Stratagy.h>
+
+1498326070 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Calculate.h
+	<I_Visitor.h>
+	<Stack.h>
+	<Argumnet.h>
+	<Operator.h>
+
+1498324295 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Stack.h
+
+1498325152 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Operator_Parser.h
+	<I_Stratagy.h>
+
+1498252738 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Add.cpp
+	"Add.h"
+
+1498253219 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Argumnet.cpp
+	"Argumnet.h"
+
+1498385045 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Calculate.cpp
+	"Calculate.h"
+	<Stack.h>
+	<iostream>
+
+1498381136 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Div.cpp
+	"Div.h"
+
+1498380976 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Div.h
+	<I_Stratagy.h>
+
+1498251768 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/I_Node.cpp
+	"I_Node.h"
+
+1498252335 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/I_Stratagy.cpp
+	"I_Stratagy.h"
+
+1498251874 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/I_Visitor.cpp
+	"I_Visitor.h"
+
+1498253797 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Mul.cpp
+	"Mul.h"
+
+1498256805 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Operator.cpp
+	"Operator.h"
+
+1498381188 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Pow.cpp
+	"Pow.h"
+	<cmath>
+
+1498381042 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Pow.h
+	<I_Stratagy.h>
+
+1498380592 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Print.cpp
+	"Print.h"
+	<iostream>
+
+1498381193 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Sub.cpp
+	"Sub.h"
+
+1498381173 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Sub.h
+	<I_Stratagy.h>
+
+1498260226 source:/home/android-17/dysk/gesterom/projekty/Console-Calculator/src/Table.cpp
+	"Table.h"
+
+1498259903 /home/android-17/dysk/gesterom/projekty/Console-Calculator/include/Table.h
+
