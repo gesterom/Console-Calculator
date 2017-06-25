@@ -1,0 +1,2557 @@
+cscope 15 $HOME/dysk/gesterom/projekty/Calculator               0000011943
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Add.h
+
+1 #i‚de‡
+ADD_H
+
+
+2 
+	#ADD_H
+
+
+	)
+
+4 
+	~<I_Så©agy.h
+>
+
+7 ˛as†
+	cAdd
+ : 
+public
+ 
+I_Så©agy
+
+
+9 
+public
+:
+
+10 
+Add
+();
+
+11 
+vútuÆ
+ 
+run
+(,);
+
+12 
+vútuÆ
+ 
+ª¥e£¡©i⁄
+();
+
+13 
+	mvútuÆ
+ ~
+Add
+();
+
+15 
+	m¥Ÿe˘ed
+:
+
+17 
+¥iv©e
+:
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Argumnet.h
+
+1 #i‚de‡
+ARGUMNET_H
+
+
+2 
+	#ARGUMNET_H
+
+
+	)
+
+4 
+	~<I_Node.h
+>
+
+5 
+	~<I_Visô‹.h
+>
+
+7 ˛as†
+	cArgum√t
+ : 
+public
+ 
+I_Node
+
+
+9 
+public
+:
+
+10 
+Argum√t
+(
+vÆue
+);
+
+11 
+vútuÆ
+ 
+Ac˚±
+(
+I_Visô‹
+* 
+v
+);
+
+12 
+gë
+();
+
+13 
+	mvútuÆ
+ ~
+Argum√t
+();
+
+15 
+	m¥Ÿe˘ed
+:
+
+17 
+¥iv©e
+:
+
+18 
+vÆue_of_node
+;
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Calculate.h
+
+1 #i‚de‡
+CALCULATE_H
+
+
+2 
+	#CALCULATE_H
+
+
+	)
+
+4 
+	~<I_Visô‹.h
+>
+
+5 
+	~<Sèck.h
+>
+
+6 
+	~<Argum√t.h
+>
+
+7 
+	~<O≥øt‹.h
+>
+
+9 ˛as†
+	cCÆcuœã
+ : 
+public
+ 
+I_Visô‹
+
+
+11 
+public
+:
+
+12 
+CÆcuœã
+(
+size
+);
+
+13 
+vútuÆ
+ 
+Visô
+(
+Argum√t
+*);
+
+14 
+vútuÆ
+ 
+Visô
+(
+O≥øt‹
+*);
+
+15 
+gë
+();
+
+16 
+	mvútuÆ
+ ~
+CÆcuœã
+();
+
+18 
+	m¥Ÿe˘ed
+:
+
+20 
+¥iv©e
+:
+
+21 
+Sèck
+<> 
+s
+;
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/I_Node.h
+
+1 #i‚de‡
+I_NODE_H
+
+
+2 
+	#I_NODE_H
+
+
+	)
+
+4 
+˛ass
+ 
+	gI_Visô‹
+;
+
+6 ˛as†
+	cI_Node
+
+
+8 
+	mpublic
+:
+
+9 
+I_Node
+();
+
+10 
+vútuÆ
+ 
+Ac˚±
+(
+I_Visô‹
+*)=0;
+
+11 
+	mvútuÆ
+ ~
+I_Node
+();
+
+13 
+	m¥Ÿe˘ed
+:
+
+15 
+¥iv©e
+:
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/I_Stratagy.h
+
+1 #i‚de‡
+I_STRATAGY_H
+
+
+2 
+	#I_STRATAGY_H
+
+
+	)
+
+5 ˛as†
+	cI_Så©agy
+
+
+7 
+	mpublic
+:
+
+8 
+I_Så©agy
+();
+
+9 
+vútuÆ
+ 
+run
+(, )=0;
+
+10 
+vútuÆ
+ 
+ª¥e£¡©i⁄
+()=0;
+
+11 
+	mvútuÆ
+ ~
+I_Så©agy
+();
+
+13 
+	m¥Ÿe˘ed
+:
+
+15 
+¥iv©e
+:
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/I_Visitor.h
+
+1 #i‚de‡
+I_VISITOR_H
+
+
+2 
+	#I_VISITOR_H
+
+
+	)
+
+4 
+˛ass
+ 
+	gArgum√t
+;
+
+5 
+˛ass
+ 
+	gO≥øt‹
+;
+
+7 ˛as†
+	cI_Visô‹
+
+
+9 
+	mpublic
+:
+
+10 
+I_Visô‹
+();
+
+11 
+vútuÆ
+ 
+Visô
+(
+Argum√t
+*)=0;
+
+12 
+vútuÆ
+ 
+Visô
+(
+O≥øt‹
+*)=0;
+
+13 
+	mvútuÆ
+ ~
+I_Visô‹
+();
+
+15 
+	m¥Ÿe˘ed
+:
+
+17 
+¥iv©e
+:
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Mul.h
+
+1 #i‚de‡
+MUL_H
+
+
+2 
+	#MUL_H
+
+
+	)
+
+4 
+	~<I_Så©agy.h
+>
+
+7 ˛as†
+	cMul
+ : 
+public
+ 
+I_Så©agy
+
+
+9 
+public
+:
+
+10 
+Mul
+();
+
+11 
+vútuÆ
+ 
+run
+(, );
+
+12 
+vútuÆ
+ 
+ª¥e£¡©i⁄
+();
+
+13 
+	mvútuÆ
+ ~
+Mul
+();
+
+15 
+	m¥Ÿe˘ed
+:
+
+17 
+¥iv©e
+:
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Operator.h
+
+1 #i‚de‡
+OPERATOR_H
+
+
+2 
+	#OPERATOR_H
+
+
+	)
+
+4 
+	~<I_Node.h
+>
+
+5 
+	~<I_Så©agy.h
+>
+
+6 
+	~<I_Visô‹.h
+>
+
+8 ˛as†
+	cO≥øt‹
+ : 
+public
+ 
+I_Node
+
+
+10 
+public
+:
+
+11 
+O≥øt‹
+(
+I_Node
+* 
+À·
+, I_Node* 
+right
+, 
+I_Så©agy
+* 
+f
+);
+
+12 
+vútuÆ
+ 
+Ac˚±
+(
+I_Visô‹
+* 
+v
+);
+
+13 
+I_Så©agy
+* 
+gë
+();
+
+14 
+	mvútuÆ
+ ~
+O≥øt‹
+();
+
+16 
+	m¥Ÿe˘ed
+:
+
+18 
+¥iv©e
+:
+
+19 
+I_Node
+* 
+À·_bønch
+;
+
+20 
+I_Node
+* 
+	mright_bønch
+;
+
+21 
+I_Så©agy
+* 
+	mfunc
+;
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Operator_Parser.h
+
+1 #i‚de‡
+OPERATOR_PARSER_H
+
+
+2 
+	#OPERATOR_PARSER_H
+
+
+	)
+
+4 
+	~<I_Så©agy.h
+>
+
+6 
+	sO≥r
+{
+
+7 
+	m¥i‹ôy
+;
+
+8 
+I_Så©agy
+* 
+	m°r
+;
+
+11 ˛as†
+	cO≥øt‹_P¨£r
+
+
+13 
+	mpublic
+:
+
+14 
+O≥øt‹_P¨£r
+();
+
+15 
+O≥r
+* 
+›î©
+();
+
+16 
+	mvútuÆ
+ ~
+O≥øt‹_P¨£r
+();
+
+18 
+	m¥Ÿe˘ed
+:
+
+20 
+¥iv©e
+:
+
+21 
+add_¥i‹ôy
+;
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Print.h
+
+1 #i‚de‡
+PRINT_H
+
+
+2 
+	#PRINT_H
+
+
+	)
+
+4 
+	~<I_Visô‹.h
+>
+
+6 
+	~<I_Node.h
+>
+
+7 
+	~<Argum√t.h
+>
+
+8 
+	~<O≥øt‹.h
+>
+
+11 ˛as†
+	cPröt
+ : 
+public
+ 
+I_Visô‹
+
+
+13 
+public
+:
+
+14 
+Pröt
+();
+
+15 
+vútuÆ
+ 
+Visô
+(
+Argum√t
+*);
+
+16 
+vútuÆ
+ 
+Visô
+(
+O≥øt‹
+*);
+
+17 
+	mvútuÆ
+ ~
+Pröt
+();
+
+19 
+	m¥Ÿe˘ed
+:
+
+21 
+¥iv©e
+:
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Stack.h
+
+1 #i‚de‡
+STACK_H
+
+
+2 
+	#STACK_H
+
+
+	)
+
+4 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+5 ˛as†
+	cSèck
+
+
+7 
+	mpublic
+:
+
+8 
+Sèck
+(c⁄° 
+size
+);
+
+9 
+push
+(
+T
+);
+
+10 
+T
+ 
+p›
+();
+
+11 
+	mvútuÆ
+ ~
+Sèck
+();
+
+13 
+	m¥Ÿe˘ed
+:
+
+15 
+¥iv©e
+:
+
+16 
+size
+;
+
+17 
+T
+* 
+	mèb
+;
+
+18 
+	mödex
+;
+
+21 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+22 
+	gSèck
+<
+	gT
+>::
+	$Sèck
+(
+size
+)
+
+25 
+this
+->
+èb
+ = 
+√w
+ 
+T
+[
+size
+];
+
+26 
+this
+->
+size
+=size;
+
+27 
+this
+->
+ödex
+=
+size
+-1;
+
+28 
+	}
+}
+
+30 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+31 
+	gSèck
+<
+	gT
+>::~
+	$Sèck
+()
+
+34 
+dñëe
+[] 
+this
+->
+èb
+;
+
+35 
+	}
+}
+
+37 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+38 
+	gSèck
+<
+	gT
+>::
+	$push
+(
+T
+ 
+vÆue
+){
+
+39 if(
+ödex
+<=0)
+
+40 
+throw
+ 
+√w
+ ;
+
+41 
+èb
+[
+ödex
+]=
+vÆue
+;
+
+42 
+ödex
+--;
+
+44 
+	}
+}
+
+46 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+47 
+T
+ 
+	gSèck
+<
+	gT
+>::
+	$p›
+(){
+
+48 if(
+ödex
+>=
+size
+)
+
+49 
+throw
+ 
+√w
+ ;
+
+50  
+èb
+[++
+ödex
+];
+
+51 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/include/Table.h
+
+1 #i‚de‡
+TABLE_H
+
+
+2 
+	#TABLE_H
+
+
+	)
+
+4 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+5 ˛as†
+	cTabÀ
+
+
+7 
+	mpublic
+:
+
+8 
+TabÀ
+(
+size
+);
+
+9 
+	mT
+& 
+gë
+(
+ödex
+);
+
+10 
+	mvútuÆ
+ ~
+TabÀ
+();
+
+12 
+	m¥Ÿe˘ed
+:
+
+14 
+¥iv©e
+:
+
+15 
+T
+* 
+d©a
+;
+
+16 
+	msize
+;
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/main.cpp
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+3 
+	~<ve˘‹
+>
+
+4 
+	~<li°
+>
+
+6 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+8 
+	~<Pröt.h
+>
+
+9 
+	~<Add.h
+>
+
+10 
+	~<Mul.h
+>
+
+11 
+	~<O≥øt‹.h
+>
+
+12 
+	~<CÆcuœã.h
+>
+
+13 
+	~<O≥øt‹_P¨£r.h
+>
+
+16 
+boﬁ
+ 
+	$check
+(
+°d
+::
+°rög
+ 
+s
+, 
+i
+){
+
+17 
+a
+ = 
+s
+[
+i
+];
+
+18 
+a
+){
+
+30  
+åue
+;
+
+32  
+Ál£
+;
+
+34 
+	}
+}
+
+36 
+	sex¥essi⁄
+{
+
+37 
+	m°d
+::
+ve˘‹
+<
+Argum√t
+*> 
+¨gs
+;
+
+38 
+	m°d
+::
+ve˘‹
+<
+O≥r
+*> 
+›
+;
+
+41 
+ex¥essi⁄
+ 
+	$∑rs_ex¥essi⁄
+(
+°d
+::
+°rög
+ 
+öput
+){
+
+42 
+°d
+::
+ve˘‹
+<
+Argum√t
+*> 
+èb
+;
+
+43 
+°d
+::
+ve˘‹
+<
+O≥r
+*> 
+›îíds
+;
+
+44 
+O≥øt‹_P¨£r
+ 
+∑rs
+;
+
+46 
+°d
+::
+°rög
+ 
+ãmp
+="";
+
+47 
+i
+=0;i<=
+öput
+.
+	`size
+();i++){
+
+48 if(
+	`check
+(
+öput
+,
+i
+)){
+
+49 
+ãmp
++=
+öput
+[
+i
+];
+
+52 if(
+ãmp
+!="")
+
+53 
+èb
+.
+	`push_back
+(
+√w
+ 
+	`Argum√t
+(
+	`©of
+(
+ãmp
+.
+	`c_°r
+())));
+
+54 
+ãmp
+="";
+
+55 
+O≥r
+* 
+o
+ = 
+∑rs
+.
+	`›î©
+(
+öput
+[
+i
+]);
+
+56 if(
+o
+ =
+NULL
+)
+
+59 
+›îíds
+.
+	`push_back
+(
+o
+);
+
+63 
+ex¥essi⁄
+ 
+ªt
+;
+
+64 
+ªt
+.
+¨gs
+ = 
+èb
+;
+
+65 
+ªt
+.
+›
+ = 
+›îíds
+;
+
+66  
+ªt
+;
+
+67 
+	}
+}
+
+77 
+	g°d
+::
+ve˘‹
+<
+I_Node
+*> 
+ö£π
+ ( 
+°d
+::ve˘‹<
+Argum√t
+*> 
+¨g
+){
+
+78 
+°d
+::
+ve˘‹
+<
+I_Node
+*> 
+n
+;
+
+79 
+	gn
+.
+ªsize
+(
+¨g
+.
+size
+());
+
+80 
+	gi
+=0;i<
+	g¨g
+.
+size
+();i++){
+
+81 
+	gn
+[
+i
+]=(
+I_Node
+*)
+¨g
+[i];
+
+83  
+	gn
+;
+
+86 
+föd_max_vÆue_ödex
+(
+°d
+::
+ve˘‹
+<
+O≥r
+*> 
+èb
+){
+
+87 
+max_¥i‹ôy
+=0;
+
+88 
+	gªt
+=0;
+
+89 
+	gi
+=0;i<
+	gèb
+.
+size
+();i++){
+
+90 if(
+	gèb
+[
+i
+]->
+	g¥i‹ôy
+>
+	gmax_¥i‹ôy
+){
+
+91 
+	gªt
+=
+i
+;
+
+94  
+	gªt
+;
+
+97 
+I_Node
+* 
+	$¸ëe_modñ
+(
+ex¥essi⁄
+ 
+exp
+){
+
+99 
+°d
+::
+ve˘‹
+<
+I_Node
+*> 
+èb
+ = 
+	`ö£π
+(
+exp
+.
+¨gs
+);
+
+100 
+°d
+::
+ve˘‹
+<
+O≥r
+*> 
+èb_›î
+ = 
+exp
+.
+›
+;
+
+102 
+cout
+<<"Iteration\n";
+
+103 
+cout
+<<"Iteration 2\n";
+
+104 
+ãmp
+ = 
+	`föd_max_vÆue_ödex
+(
+èb_›î
+);
+
+105 
+cout
+<<"Max "<<
+ãmp
+<<
+ídl
+;;
+
+106 
+O≥øt‹
+* 
+ãmp_›
+ = 
+√w
+ 
+	`O≥øt‹
+(
+èb
+[
+ãmp
+],èb[ãmp+1],
+èb_›î
+[ãmp]->
+°r
+);
+
+107 
+cout
+<<"temp_op\n";
+
+108 
+èb_›î
+.
+	`îa£
+—ab_›î.
+	`begö
+()+
+ãmp
+);
+
+109 
+cout
+<<"èb_›îÉø£ "<<
+èb_›î
+.
+	`size
+()<<
+ídl
+;
+
+110 
+èb
+[
+ãmp
+] = (
+I_Node
+*)
+ãmp_›
+;
+
+111 
+cout
+<<"tab[temp] = (I_Node*)temp_op;\n";
+
+112 
+èb
+.
+	`îa£
+—ab.
+	`begö
+()+
+ãmp
++1);
+
+113 
+cout
+<<"èb.îa£—ab.begö()+ãmp+1Ë"<<
+èb
+.
+	`size
+()<<
+ídl
+;
+
+115 if(
+èb
+.
+	`size
+()==1)
+
+117 if(
+èb_›î
+.
+	`size
+()==0){
+
+118 
+cout
+<<"Warning!!!\n";
+
+124  
+èb
+[0];
+
+125 
+	}
+}
+
+127 
+	$maö
+()
+
+129 
+cout
+ << "Hñlÿw‹ld!" << 
+ídl
+;
+
+131 
+°rög
+ 
+öput
+="";
+
+132 
+	`gëlöe
+(
+cö
+,
+öput
+);
+
+133 
+ex¥essi⁄
+ 
+ãmp
+ = 
+	`∑rs_ex¥essi⁄
+(
+öput
+);
+
+134 
+I_Node
+* 
+vÆue
+ = 
+	`¸ëe_modñ
+(
+ãmp
+);
+
+135 
+CÆcuœã
+ 
+	`ˇl
+(
+ãmp
+.
+¨gs
+.
+	`size
+());
+
+136 
+vÆue
+->
+	`Ac˚±
+((
+I_Visô‹
+*)&
+ˇl
+);
+
+137 
+cout
+<<
+ˇl
+.
+	`gë
+()<<
+ídl
+;
+
+140 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Add.cpp
+
+1 
+	~"Add.h
+"
+
+3 
+	gAdd
+::
+	$Add
+()
+
+6 
+	}
+}
+
+8 
+Add
+::~
+	$Add
+()
+
+11 
+	}
+}
+
+12 
+Add
+::
+	$run
+(
+a
+, 
+b
+)
+
+14  
+a
++
+b
+;
+
+15 
+	}
+}
+
+16 
+	gAdd
+::
+	$ª¥e£¡©i⁄
+(){
+
+18 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Argumnet.cpp
+
+1 
+	~"Argum√t.h
+"
+
+3 
+	gArgum√t
+::
+	$Argum√t
+(
+vÆue
+)
+
+6 
+this
+->
+vÆue_of_node
+ = 
+vÆue
+;
+
+7 
+	}
+}
+
+9 
+	gArgum√t
+::~
+	$Argum√t
+()
+
+12 
+	}
+}
+
+13 
+Argum√t
+::
+	$Ac˚±
+(
+I_Visô‹
+* 
+v
+){
+
+14 
+v
+->
+	`Visô
+(
+this
+);
+
+15 ;
+	}
+}
+
+16 
+	gArgum√t
+::
+	$gë
+(){
+
+17  
+vÆue_of_node
+;
+
+18 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Calculate.cpp
+
+1 
+	~"CÆcuœã.h
+"
+
+2 
+	~<Sèck.h
+>
+
+4 
+	gCÆcuœã
+::
+	$CÆcuœã
+(
+size
+Ë:
+	$s
+(
+size
+)
+
+7 
+	}
+}
+
+9 
+CÆcuœã
+::~
+	$CÆcuœã
+()
+
+12 
+	}
+}
+
+13 
+CÆcuœã
+::
+	$Visô
+(
+Argum√t
+* 
+node
+){
+
+14 
+s
+.
+	`push
+(
+node
+->
+	`gë
+());
+
+15 
+	}
+}
+
+16 
+	gCÆcuœã
+::
+	$Visô
+(
+O≥øt‹
+* 
+node
+){
+
+17 
+a
+ = 
+s
+.
+	`p›
+();
+
+18 
+b
+ = 
+s
+.
+	`p›
+();
+
+19 
+s
+.
+	`push
+(
+node
+->
+	`gë
+()->
+	`run
+(
+a
+,
+b
+));
+
+20 
+	}
+}
+
+21 
+	gCÆcuœã
+::
+	$gë
+(){
+
+22  
+s
+.
+	`p›
+();
+
+23 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/I_Node.cpp
+
+1 
+	~"I_Node.h
+"
+
+3 
+	gI_Node
+::
+	$I_Node
+()
+
+6 
+	}
+}
+
+8 
+I_Node
+::~
+	$I_Node
+()
+
+11 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/I_Stratagy.cpp
+
+1 
+	~"I_Så©agy.h
+"
+
+3 
+	gI_Så©agy
+::
+	$I_Så©agy
+()
+
+6 
+	}
+}
+
+8 
+I_Så©agy
+::~
+	$I_Så©agy
+()
+
+11 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/I_Visitor.cpp
+
+1 
+	~"I_Visô‹.h
+"
+
+3 
+	gI_Visô‹
+::
+	$I_Visô‹
+()
+
+6 
+	}
+}
+
+8 
+I_Visô‹
+::~
+	$I_Visô‹
+()
+
+11 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Mul.cpp
+
+1 
+	~"Mul.h
+"
+
+3 
+	gMul
+::
+	$Mul
+()
+
+6 
+	}
+}
+
+8 
+Mul
+::~
+	$Mul
+()
+
+11 
+	}
+}
+
+12 
+Mul
+::
+	$run
+(
+a
+, 
+b
+){
+
+13  
+a
+*
+b
+;
+
+14 
+	}
+}
+
+15 
+	gMul
+::
+	$ª¥e£¡©i⁄
+(){
+
+17 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Operator.cpp
+
+1 
+	~"O≥øt‹.h
+"
+
+3 
+	gO≥øt‹
+::
+	$O≥øt‹
+(
+I_Node
+* 
+À·
+, I_Node* 
+right
+, 
+I_Så©agy
+* 
+f
+)
+
+6 
+this
+->
+À·_bønch
+ = 
+À·
+;
+
+7 
+this
+->
+right_bønch
+ = 
+right
+;
+
+8 
+this
+->
+func
+ = 
+f
+;
+
+9 
+	}
+}
+
+11 
+	gO≥øt‹
+::~
+	$O≥øt‹
+()
+
+14 
+	}
+}
+
+15 
+O≥øt‹
+::
+	$Ac˚±
+(
+I_Visô‹
+* 
+v
+){
+
+16 if(
+this
+->
+À·_bønch
+!=0)
+
+17 
+this
+->
+À·_bønch
+->
+	`Ac˚±
+(
+v
+);
+
+19 if(
+this
+->
+right_bønch
+!=0)
+
+20 
+this
+->
+right_bønch
+->
+	`Ac˚±
+(
+v
+);
+
+22 
+v
+->
+	`Visô
+(
+this
+);
+
+23 
+	}
+}
+
+24 
+I_Så©agy
+* 
+	gO≥øt‹
+::
+	$gë
+(){
+
+25  
+this
+->
+func
+;
+
+26 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Operator_Parser.cpp
+
+1 
+	~"O≥øt‹_P¨£r.h
+"
+
+2 
+	~<c°dlib
+>
+
+3 
+	~<Add.h
+>
+
+4 
+	~<Mul.h
+>
+
+6 
+	gO≥øt‹_P¨£r
+::
+	$O≥øt‹_P¨£r
+()
+
+9 
+add_¥i‹ôy
+=0;
+
+10 
+	}
+}
+
+12 
+	gO≥øt‹_P¨£r
+::~
+	$O≥øt‹_P¨£r
+()
+
+15 
+	}
+}
+
+16 
+O≥r
+* 
+O≥øt‹_P¨£r
+::
+	$›î©
+(
+öput
+){
+
+18 
+O≥r
+* 
+ãmp
+ = 
+√w
+ Oper;
+
+19 
+öput
+){
+
+21 
+ãmp
+->
+¥i‹ôy
+=
+add_¥i‹ôy
++1;
+
+22 
+ãmp
+->
+°r
+ = 
+√w
+ 
+	`Add
+();
+
+23  
+ãmp
+;
+
+25 
+ãmp
+->
+¥i‹ôy
+=
+add_¥i‹ôy
++2;
+
+26 
+ãmp
+->
+°r
+ = 
+√w
+ 
+	`Mul
+();
+
+27  
+ãmp
+;
+
+29 
+add_¥i‹ôy
++=10;
+
+30  
+NULL
+;
+
+32 
+add_¥i‹ôy
+-=10;
+
+33  
+NULL
+;
+
+36  
+NULL
+;
+
+38 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Print.cpp
+
+1 
+	~"Pröt.h
+"
+
+2 
+	~<io°ªam
+>
+
+5 
+	gPröt
+::
+	$Pröt
+()
+
+8 
+	}
+}
+
+10 
+Pröt
+::~
+	$Pröt
+()
+
+13 
+	}
+}
+
+14 
+Pröt
+::
+	$Visô
+(
+Argum√t
+* 
+node
+){
+
+15 
+°d
+::
+cout
+<<
+node
+->
+	`gë
+();
+
+16 
+	}
+}
+
+17 
+	gPröt
+::
+	$Visô
+(
+O≥øt‹
+* 
+node
+){
+
+18 
+°d
+::
+cout
+<<
+node
+->
+	`gë
+()->
+	`ª¥e£¡©i⁄
+();
+
+19 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/src/Table.cpp
+
+1 
+	~"TabÀ.h
+"
+
+3 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+4 
+	gTabÀ
+<
+	gT
+>::
+	$TabÀ
+(
+size
+)
+
+7 
+d©a
+ = 
+√w
+ 
+T
+[
+size
+];
+
+8 
+this
+->
+size
+ = size;
+
+9 
+	}
+}
+
+11 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+12 
+	gTabÀ
+<
+	gT
+>::~
+	$TabÀ
+()
+
+15 
+dñëe
+[] 
+d©a
+;
+
+16 
+	}
+}
+
+18 
+	gãm∂©e
+ <
+ty≥«me
+ 
+	gT
+>
+
+19 
+	gT
+& 
+	gTabÀ
+<T>::
+	$gë
+(
+ödex
+){
+
+20 if(
+ödex
+<0)
+
+21 
+throw
+ 
+√w
+ ;
+
+22 if(
+ödex
+>
+size
+)
+
+23 
+throw
+ 
+√w
+ ;
+
+24  
+d©a
+[
+ödex
+];
+
+25 
+	}
+}
+
+	@/home/android-17/dysk/gesterom/projekty/Calculator/version.h
+
+1 #i‚de‡
+VERSION_H
+
+
+2 
+	#VERSION_H
+
+
+	)
+
+4 
+«me•a˚
+ 
+	gAutoVîsi⁄
+{
+
+7 c⁄° 
+	gDATE
+[] = "25";
+
+8 c⁄° 
+	gMONTH
+[] = "06";
+
+9 c⁄° 
+	gYEAR
+[] = "2017";
+
+10 c⁄° 
+	gUBUNTU_VERSION_STYLE
+[] = "17.06";
+
+13 c⁄° 
+	gSTATUS
+[] = "Alpha";
+
+14 c⁄° 
+	gSTATUS_SHORT
+[] = "a";
+
+17 c⁄° 
+	gMAJOR
+ = 1;
+
+18 c⁄° 
+	gMINOR
+ = 0;
+
+19 c⁄° 
+	gBUILD
+ = 111;
+
+20 c⁄° 
+	gREVISION
+ = 558;
+
+23 c⁄° 
+	gBUILDS_COUNT
+ = 323;
+
+24 
+	#RC_FILEVERSION
+ 1,0,111,558
+
+	)
+
+25 
+	#RC_FILEVERSION_STRING
+ "1, 0, 111, 558\0"
+
+	)
+
+26 c⁄° 
+	gFULLVERSION_STRING
+ [] = "1.0.111.558";
+
+29 c⁄° 
+	gBUILD_HISTORY
+ = 113;
+
+	@
+1
+.
+1
+/usr/include
+25
+1692
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Add.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Argumnet.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Calculate.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/I_Node.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/I_Stratagy.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/I_Visitor.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Mul.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Operator.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Operator_Parser.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Print.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Stack.h
+/home/android-17/dysk/gesterom/projekty/Calculator/include/Table.h
+/home/android-17/dysk/gesterom/projekty/Calculator/main.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Add.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Argumnet.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Calculate.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/I_Node.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/I_Stratagy.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/I_Visitor.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Mul.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Operator.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Operator_Parser.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Print.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/src/Table.cpp
+/home/android-17/dysk/gesterom/projekty/Calculator/version.h
