@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1498381767 source:/home/android-17/dysk/gesterom/projekty/Calculator/main.cpp
+1498384959 source:/home/android-17/dysk/gesterom/projekty/Calculator/main.cpp
 	<iostream>
 	<cstdlib>
 	<vector>
@@ -68,9 +68,10 @@
 1498253797 source:/home/android-17/dysk/gesterom/projekty/Calculator/src/Mul.cpp
 	"Mul.h"
 
-1498380481 source:/home/android-17/dysk/gesterom/projekty/Calculator/src/Calculate.cpp
+1498382269 source:/home/android-17/dysk/gesterom/projekty/Calculator/src/Calculate.cpp
 	"Calculate.h"
 	<Stack.h>
+	<iostream>
 
 1498326070 /home/android-17/dysk/gesterom/projekty/Calculator/include/Calculate.h
 	<I_Visitor.h>

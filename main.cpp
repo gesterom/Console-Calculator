@@ -99,16 +99,15 @@ I_Node* crete_model(expression exp){
 
     std::vector<I_Node*> tab = insert(exp.args);
     std::vector<Oper*> tab_oper = exp.op;
-    for(Oper* item : tab_oper)
     for(;tab_oper.size()>0;){
 //        cout<<"Iteration\n";
 //        cout<<"Iteration 2\n";
-        for(Oper* item : tab_oper){
-            cout<<item->str->representation()<<" ";
-        }
-        cout<<endl;
+//        for(Oper* item : tab_oper){
+//            cout<<item->str->representation()<<" ";
+//        }
+//        cout<<endl;
         unsigned int temp = find_max_value_index(tab_oper);
-        cout<<"Max "<<temp<<endl;
+//        cout<<"Max "<<temp<<endl;
         Operator* temp_op = new Operator(tab[temp],tab[temp+1],tab_oper[temp]->str);
         //cout<<"temp_op\n";
         tab_oper.erase(tab_oper.begin()+temp);
